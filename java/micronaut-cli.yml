@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: io.christop
+---
+testFramework: junit
+sourceLanguage: java
